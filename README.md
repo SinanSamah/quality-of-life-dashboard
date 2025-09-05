@@ -18,8 +18,7 @@ The dashboard is built for a diverse audience, including:
 * [cite_start]**Researchers** analyzing socio-economic and environmental trends[cite: 63].
 * [cite_start]**Individuals & Expats** making informed relocation or investment decisions[cite: 67].
 
-![Dashboard Screenshot](<INSERT_SCREENSHOT_URL_HERE>)
-> **Note:** We will add a screenshot in the final step. For now, this placeholder is fine.
+![Dashboard Screenshot](<https://github.com/SinanSamah/quality-of-life-dashboard/blob/main/dashboard-preview.png>)
 
 ---
 
