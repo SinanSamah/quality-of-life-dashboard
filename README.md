@@ -11,12 +11,12 @@
 
 ## Overview
 
-This project is an interactive, multi-page dashboard designed to explore, compare, and analyze global quality-of-life indicators. [cite_start]Quality of life is shaped by numerous factors, but the data is often fragmented, making it difficult to analyze trends or compare regions[cite: 42, 49]. [cite_start]This tool addresses that gap by consolidating key metrics into a single, visually engaging platform to support data-driven decision-making[cite: 57].
+This project is an interactive, multi-page dashboard designed to explore, compare, and analyze global quality-of-life indicators. [cite_start]Quality of life is shaped by numerous factors, but the data is often fragmented, making it difficult to analyze trends or compare regions. This tool addresses that gap by consolidating key metrics into a single, visually engaging platform to support data-driven decision-making.
 
 The dashboard is built for a diverse audience, including:
-* [cite_start]**Policymakers** evaluating national performance[cite: 62].
-* [cite_start]**Researchers** analyzing socio-economic and environmental trends[cite: 63].
-* [cite_start]**Individuals & Expats** making informed relocation or investment decisions[cite: 67].
+* **Policymakers** evaluating national performance[cite: 62].
+* **Researchers** analyzing socio-economic and environmental trends[cite: 63].
+* **Individuals & Expats** making informed relocation or investment decisions[cite: 67].
 
 ![Dashboard Screenshot](<https://github.com/SinanSamah/quality-of-life-dashboard/blob/main/dashboard-preview.png>)
 
@@ -26,10 +26,10 @@ The dashboard is built for a diverse audience, including:
 
 The application is composed of several analytical modules:
 
-* [cite_start]**🗺️ World Map Explorer:** An interactive choropleth map to visualize global variations in key indicators[cite: 320]. Features dynamic filters for continents, a log-scale option for skewed data, and detailed hover-over tooltips.
-* [cite_start]**📊 Country & Continent Comparison:** A side-by-side comparison tool that uses radar, bubble, and bar charts to analyze the strengths and weaknesses of any two selected entities across multiple metrics[cite: 322].
+* **🗺️ World Map Explorer:** An interactive choropleth map to visualize global variations in key indicators[cite: 320]. Features dynamic filters for continents, a log-scale option for skewed data, and detailed hover-over tooltips.
+* **📊 Country & Continent Comparison:** A side-by-side comparison tool that uses radar, bubble, and bar charts to analyze the strengths and weaknesses of any two selected entities across multiple metrics.
 * **📈 Top vs. Bottom Analysis:** A module to instantly identify and compare the highest and lowest-performing countries for any selected indicator, complete with auto-generated textual insights that explain real-world implications.
-* [cite_start]**🌍 Global Metrics View:** Presents aggregate statistics and hierarchical data visualizations (like sunburst charts) to understand indicator distributions at both continental and country levels[cite: 321].
+* **🌍 Global Metrics View:** Presents aggregate statistics and hierarchical data visualizations (like sunburst charts) to understand indicator distributions at both continental and country levels.
 
 ---
 
@@ -77,4 +77,4 @@ To run this project on your local machine, please follow these steps:
 
 ---
 ## Data Source
-[cite_start]The data used in this dashboard is sourced from [Numbeo's Quality of Life Indices](https://www.numbeo.com/quality-of-life/), a crowd-sourced global database of reported consumer prices, perceived crime rates, and quality of life indicators[cite: 76].
+The data used in this dashboard is sourced from [Numbeo's Quality of Life Indices](https://www.numbeo.com/quality-of-life/), a crowd-sourced global database of reported consumer prices, perceived crime rates, and quality of life indicators.
