@@ -49,7 +49,7 @@ To run this project on your local machine, please follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/quality-of-life-dashboard.git](https://github.com/your-username/quality-of-life-dashboard.git)
+    git clone https://github.com/SinanSamah/quality-of-life-dashboard.git
     cd quality-of-life-dashboard
     ```
 
