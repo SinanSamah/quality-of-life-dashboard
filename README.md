@@ -11,7 +11,7 @@
 
 ## Overview
 
-This project is an interactive, multi-page dashboard designed to explore, compare, and analyze global quality-of-life indicators. [cite_start]Quality of life is shaped by numerous factors, but the data is often fragmented, making it difficult to analyze trends or compare regions. This tool addresses that gap by consolidating key metrics into a single, visually engaging platform to support data-driven decision-making.
+This project is an interactive, multi-page dashboard designed to explore, compare, and analyze global quality-of-life indicators. Quality of life is shaped by numerous factors, but the data is often fragmented, making it difficult to analyze trends or compare regions. This tool addresses that gap by consolidating key metrics into a single, visually engaging platform to support data-driven decision-making.
 
 The dashboard is built for a diverse audience, including:
 * **Policymakers** evaluating national performance.
@@ -26,7 +26,7 @@ The dashboard is built for a diverse audience, including:
 
 The application is composed of several analytical modules:
 
-* **🗺️ World Map Explorer:** An interactive choropleth map to visualize global variations in key indicators[cite: 320]. Features dynamic filters for continents, a log-scale option for skewed data, and detailed hover-over tooltips.
+* **🗺️ World Map Explorer:** An interactive choropleth map to visualize global variations in key indicators. Features dynamic filters for continents, a log-scale option for skewed data, and detailed hover-over tooltips.
 * **📊 Country & Continent Comparison:** A side-by-side comparison tool that uses radar, bubble, and bar charts to analyze the strengths and weaknesses of any two selected entities across multiple metrics.
 * **📈 Top vs. Bottom Analysis:** A module to instantly identify and compare the highest and lowest-performing countries for any selected indicator, complete with auto-generated textual insights that explain real-world implications.
 * **🌍 Global Metrics View:** Presents aggregate statistics and hierarchical data visualizations (like sunburst charts) to understand indicator distributions at both continental and country levels.
@@ -39,7 +39,7 @@ The application is composed of several analytical modules:
 * **Dashboard Framework:** Streamlit
 * **Data Manipulation:** Pandas
 * **Visualization Libraries:** Plotly, Altair
-* [cite_start]**Data:** The primary dataset is from Numbeo's Quality of Life Index, combined with a country-continent classification dataset[cite: 76, 79].
+* **Data:** The primary dataset is from Numbeo's Quality of Life Index, combined with a country-continent classification dataset.
 
 ---
 
