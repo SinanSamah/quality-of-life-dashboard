@@ -14,9 +14,9 @@
 This project is an interactive, multi-page dashboard designed to explore, compare, and analyze global quality-of-life indicators. [cite_start]Quality of life is shaped by numerous factors, but the data is often fragmented, making it difficult to analyze trends or compare regions. This tool addresses that gap by consolidating key metrics into a single, visually engaging platform to support data-driven decision-making.
 
 The dashboard is built for a diverse audience, including:
-* **Policymakers** evaluating national performance[cite: 62].
-* **Researchers** analyzing socio-economic and environmental trends[cite: 63].
-* **Individuals & Expats** making informed relocation or investment decisions[cite: 67].
+* **Policymakers** evaluating national performance.
+* **Researchers** analyzing socio-economic and environmental trends.
+* **Individuals & Expats** making informed relocation or investment decisions.
 
 ![Dashboard Screenshot](<https://github.com/SinanSamah/quality-of-life-dashboard/blob/main/dashboard-preview.png>)
 
